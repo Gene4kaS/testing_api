@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/testing_api/static/css/main.31d6cfe0.css",
+    "main.js": "/testing_api/static/js/main.9facc38e.js",
+    "index.html": "/testing_api/index.html",
+    "main.9facc38e.js.map": "/testing_api/static/js/main.9facc38e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.9facc38e.js"
+  ]
+}
